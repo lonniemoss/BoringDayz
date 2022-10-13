@@ -24,8 +24,8 @@ function calculateDaysBetweenDates(begin, end) {
     }
     return years + " years, " + months + " months, " + days + " days";
 }
-var begin = "2015-01-01";
-var end = "2016-01-01";
+var begin = "2022-01-01";
+var end = "2023-01-01";
 var days = calculateDaysBetweenDates(begin, end);
 console.log(days);
 
