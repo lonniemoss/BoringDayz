@@ -6,7 +6,8 @@ To use the program, you need to create a folder and add the .py in your new fold
 
 - women voice ai
 -dice rolls
-password generator
+-password generator
+-calculate days between dates
 
 
 
