@@ -1,2 +1,14 @@
-# BoringDayz
-Cool functions from dice rolls to password generator
+# Usage
+
+To use the program, you need to create a folder and add the .py in your new folder, from the cmd prompt or terminal.
+
+# Description
+
+- women voice ai
+-dice rolls
+password generator
+
+
+
+# Dependencies
+follow the comments, run the program on your ide.
